@@ -11,7 +11,7 @@ Before you begin, ensure you have the following requirements:
 - MediaPipe
 - Matplotlib
 
-##How it Works
+## How it Works
 First, we load an image using OpenCV.
 
 We convert the BGR image to RGB format for compatibility with MediaPipe and Matplotlib.
@@ -26,7 +26,7 @@ We convert the image back to RGB format for displaying using Matplotlib.
 
 The annotated image is displayed, showing the detected faces with bounding boxes.
 
-##Usage
+## Usage
 To use this project, follow these steps:
 
 Clone the repository or download the code to your local machine.
@@ -35,20 +35,20 @@ Install the required packages (as mentioned in the prerequisites).
 
 Replace path-to-your-image.png with the path to your image in the README file.
 
-###Run the code using Python:
+### Run the code using Python:
 
 bash
 Copy code
 python your_face_detection_script.py
 You can also use this code within a Jupyter Notebook for interactive testing.
 
-##Results
+## Results
 The result will be an image with bounding boxes drawn around detected faces, like the example shown above.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you find any issues or want to improve the project, please create a pull request or open an issue.
 
-##Acknowledgments
+## Acknowledgments
 
 MediaPipe for providing the Face Detection model.
 
