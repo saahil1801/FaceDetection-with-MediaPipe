@@ -11,6 +11,8 @@ Before you begin, ensure you have the following requirements:
 - MediaPipe
 - Matplotlib
 
+pip install opencv-python-headless mediapipe matplotlib
+ 
 ## How it Works
 First, we load an image using OpenCV.
 
