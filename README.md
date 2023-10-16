@@ -1,5 +1,11 @@
 # FaceDetection-with-MediaPipe
 
+![srk](https://github.com/saahil1801/FaceDetection-with-MediaPipe/assets/84408557/94f5d9d1-e23c-40a9-9088-1b493427ad1a)
+
+
+![image](https://github.com/saahil1801/FaceDetection-with-MediaPipe/assets/84408557/429242c6-5a77-4d4a-a76e-03b81d263087)
+
+
 This project demonstrates how to perform face detection using [MediaPipe](https://mediapipe.dev/) and [OpenCV](https://opencv.org/). Face detection is the process of identifying and locating human faces in an image or video. This project uses the MediaPipe Face Detection model to identify faces in images and draw bounding boxes around them.
 
 ## Prerequisites
